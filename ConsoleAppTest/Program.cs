@@ -10,6 +10,7 @@ namespace ConsoleAppTest
             Console.WriteLine("new line added");
             Console.WriteLine("bini test");
             Console.WriteLine("2");
+            Console.WriteLine("3");
         }
     }
 }
