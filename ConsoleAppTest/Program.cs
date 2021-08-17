@@ -11,6 +11,7 @@ namespace ConsoleAppTest
             Console.WriteLine("bini test");
             Console.WriteLine("test data");
             Console.WriteLine("1");
+            Console.WriteLine("2");
         }
     }
 }
